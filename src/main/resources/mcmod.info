@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "stretchmod",
+    "name": "Stretch Mod",
+    "description": "Stretched rendering for Minecraft 1.8.9",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "authorList": ["spiderk7"],
+    "clientSideOnly": true
+  }
+]
