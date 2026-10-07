@@ -43,7 +43,7 @@ public class StretchTransformer implements IClassTransformer {
 
                             InsnList stretch = new InsnList();
 
-                            stretch.add(new LdcInsnNode(1.18F));
+                            stretch.add(new LdcInsnNode(1.25F));
 
                             stretch.add(new InsnNode(Opcodes.FCONST_1));
 
